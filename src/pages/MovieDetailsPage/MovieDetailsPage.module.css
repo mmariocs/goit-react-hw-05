@@ -1,0 +1,27 @@
+/* .container {
+  max-width: 900px;
+} */
+.btn_go_back {
+  padding: 5px;
+}
+.btn_go_back:hover {
+  color: rgb(80, 79, 79);
+}
+.title {
+  font-size: 25px;
+}
+.text {
+  width: 600px;
+}
+.nav {
+  display: flex;
+  gap: 10px;
+}
+.item {
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 5px 10px;
+}
+.item:hover {
+  background-color: lightgrey;
+}

@@ -1,0 +1,19 @@
+.text {
+  font-size: 30px;
+}
+.form {
+  display: flex;
+  gap: 10px;
+}
+.input {
+  border-radius: 5px;
+  padding: 5px;
+}
+.btn {
+  cursor: pointer;
+  border-radius: 5px;
+  background-color: rgb(207, 207, 209);
+}
+.btn:hover {
+  background-color: rgb(242, 245, 248);
+}
